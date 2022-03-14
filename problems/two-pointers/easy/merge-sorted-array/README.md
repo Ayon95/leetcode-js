@@ -39,3 +39,9 @@
   - decrement j so that it points to the next largest number in array 2
 - O(m + n) time complexity
 - O(1) space complexity
+
+### Two pointers (a bit more efficient)
+
+- to make the algorithm more efficient, we can run a while loop as long as we have numbers to sort in nums2 array
+- this way, we won't need to always iterate the length of nums1 array
+- when all numbers from nums2 array have been placed in the correct position, we will have the complete set of numbers sorted
