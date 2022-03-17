@@ -2,7 +2,7 @@
 
 | #   | Difficulty | Tag(s)       | Link                                                                            |
 | --- | ---------- | ------------ | ------------------------------------------------------------------------------- |
-| 1   | Easy       | Two pointers | [View problem](https://leetcode.com/problems/shortest-distance-to-a-character/) |
+| 7   | Easy       | Two pointers | [View problem](https://leetcode.com/problems/shortest-distance-to-a-character/) |
 
 ## Approaches
 
