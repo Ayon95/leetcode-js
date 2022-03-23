@@ -1,6 +1,8 @@
+# Number of subarrays of size k and average greater than or equal to threshold
+
 | #   | Difficulty | Tag(s)         | Link                                                                                                                         |
 | --- | ---------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 15  | Easy       | Sliding window | [View problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
+| 15  | Medium     | Sliding window | [View problem](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 
 ## Sliding window
 

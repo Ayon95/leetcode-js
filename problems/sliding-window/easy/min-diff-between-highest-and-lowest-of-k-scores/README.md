@@ -1,3 +1,5 @@
+# Minimum difference between highest and lowest of k scores
+
 | #   | Difficulty | Tag(s)                  | Link                                                                                                     |
 | --- | ---------- | ----------------------- | -------------------------------------------------------------------------------------------------------- |
 | 14  | Easy       | Sliding window, sorting | [View problem](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) |
