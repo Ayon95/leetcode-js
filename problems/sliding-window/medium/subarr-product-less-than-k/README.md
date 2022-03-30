@@ -2,7 +2,7 @@
 
 | #   | Difficulty | Tag(s)         | Link                                                                        |
 | --- | ---------- | -------------- | --------------------------------------------------------------------------- |
-| 21  | Medium     | Sliding window | [View problem](https://leetcode.com/problems/subarray-product-less-than-k/) |
+| 22  | Medium     | Sliding window | [View problem](https://leetcode.com/problems/subarray-product-less-than-k/) |
 
 ## Approaches
 

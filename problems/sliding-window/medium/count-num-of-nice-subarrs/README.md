@@ -2,7 +2,7 @@
 
 | #   | Difficulty | Tag(s)         | Link                                                                          |
 | --- | ---------- | -------------- | ----------------------------------------------------------------------------- |
-| 22  | Medium     | Sliding window | [View problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) |
+| 23  | Medium     | Sliding window | [View problem](https://leetcode.com/problems/count-number-of-nice-subarrays/) |
 
 ## Sliding window (approach 1)
 
