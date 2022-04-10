@@ -1,10 +1,10 @@
 # Binary search
 
-| #   | Difficulty | Tag(s)                      | Link                                                         |
-| --- | ---------- | --------------------------- | ------------------------------------------------------------ |
-| 35  | easy       | Binary search, two pointers | [View problem](https://leetcode.com/problems/binary-search/) |
+| #   | Difficulty | Tag(s)        | Link                                                         |
+| --- | ---------- | ------------- | ------------------------------------------------------------ |
+| 35  | easy       | Binary search | [View problem](https://leetcode.com/problems/binary-search/) |
 
-## Binary search using two pointers
+## Approach
 
 - look at the middle number in a portion of the array (the problem space) and compare it with the target
 - if the middle number is equal to the target, then we have found the number
@@ -15,3 +15,5 @@
 - O(log n) time complexity
   - in each comparison, we halve the problem space
 - O(1) space complexity
+
+![](./binary-search.png)

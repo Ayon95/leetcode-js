@@ -1,8 +1,8 @@
 # Peak index in a mountain array
 
-| #   | Difficulty | Tag(s)                      | Link                                                                          |
-| --- | ---------- | --------------------------- | ----------------------------------------------------------------------------- |
-| 36  | easy       | Binary search, two pointers | [View problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
+| #   | Difficulty | Tag(s)        | Link                                                                          |
+| --- | ---------- | ------------- | ----------------------------------------------------------------------------- |
+| 36  | easy       | Binary search | [View problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |
 
 ## Binary search
 
@@ -16,3 +16,5 @@
   - this means that the peak must be somewhere to the right of the current middle number (right-skewed mountain)
 - O(log n) time complexity
 - O(1) space complexity
+
+![](./peak-index-in-mountain-array.png)
