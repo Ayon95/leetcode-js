@@ -34,7 +34,8 @@
 - if `arr1[i] === arr2[j]`
   - add the number to result array
   - increment both i and j
-- O(mlogm + nlogn) time complexity
+- O(mlogm + nlogn + p) time complexity
+  - p is the size of the larger array
 - O(k + l) space complexity
   - k is the size of the set
   - l is the size of the result array
@@ -45,5 +46,6 @@
 - use a set to store common unique numbers present in both arrays
 - loop through arr1 and use each number as the target when you perform binary search on arr2
   - if the target is present in arr2, then we add that number to the set
-- O(mlogm + nlogn) time complexity
+- O(mlogm + nlogn + mlogn) time complexity
+  - mlogn is the time required to do binary search on `nums2` array m times where m is the size of `nums1` array
 - O(k + l) space complexity

@@ -2,7 +2,7 @@
 
 | #   | Difficulty | Tag(s)                                | Link                                                                         |
 | --- | ---------- | ------------------------------------- | ---------------------------------------------------------------------------- |
-| 42  | easy       | Hash map, two pointers, binary search | [View problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
+| 43  | easy       | Hash map, two pointers, binary search | [View problem](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 
 The problem is very similar to [Intersection of two arrays](https://github.com/Ayon95/leetcode-js/tree/master/problems/hash-map/easy/intersection-of-two-arrs)
 
